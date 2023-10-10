@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there I am fafi burgos 👋
+
+### I' am currently learning penetration testing 🚩
+
+#### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=py,linux,docker,postgres)](https://skillicons.dev)
+
 
 <!--
 **fafiburgos/fafiburgos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
