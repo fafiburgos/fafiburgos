@@ -1,10 +1,10 @@
 ## Hi there I am fafi burgos 👋
 
-### I' am currently learning penetration testing 🚩
+### I' am currently Android Development with Kotlin 
 
 #### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,linux,docker,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,linux,androidstudio,idea,sqlite&theme=light)](https://skillicons.dev)
 
 
 <!--
