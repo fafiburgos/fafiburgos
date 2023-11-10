@@ -1,10 +1,10 @@
 ## Hi there I am fafi burgos 👋
 
-### I' am currently Android Development with Kotlin 
+### I' am currently learning System Administration and Cybersecurity
 
 #### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,linux,androidstudio,idea,sqlite&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,linux,docker,sqlite&theme=light)](https://skillicons.dev)
 
 
 <!--
